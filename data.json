@@ -1,0 +1,13 @@
+{
+  "temperature": {
+    "current": 71,
+    "desired": 75,
+    "on": true
+  },
+  "lights": {
+    "on": false
+  },
+  "curtains": {
+    "on": false
+  }
+}
